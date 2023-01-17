@@ -10,6 +10,6 @@ In here you will find the repositories to the projects that I've been part of. P
 
 Mostly focus in the projects has been on embedded programming (C/C++) of the embedded devices and their components themselves, but I've also been a part of developing
 the front-end side of a Web UI to follow/monitor the data sent by the embedded device. My passion lies within embedded programming, although I do find the entire
-scope of embedded programming extremely interesting.
+world of the IoT extremely interesting.
 
 📫 toni.franciskovic.95@gmail.com
